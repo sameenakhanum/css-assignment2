@@ -60,11 +60,11 @@ body{
 @media (max-width:767px) {
     
 .container1 img{
-    height: 290px;
+    height: 45vh;
     width: 100%;
 }
 .container2{
-    height: 290px;
+    height: 55vh;
     width: 100%;
     margin-top: -4px;
 }
