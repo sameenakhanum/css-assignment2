@@ -60,21 +60,21 @@ body{
 @media (max-width:767px) {
     
 .container1 img{
-    height: 270px;
+    height: 290px;
     width: 100%;
 }
 .container2{
-    height: 250px;
+    height: 290px;
     width: 100%;
     margin-top: -4px;
 }
 #twitter{
     font-size: 1.5rem;
-    padding: 20px 0 0 20px;
+    padding: 40px 0 0 20px;
 }
 .container2 h1{
     font-size: 25px;
-    padding: 60px 0 10px 20px;
+    padding: 80px 0 10px 20px;
 }
 .container2 h3{
     font-size: 16px;
