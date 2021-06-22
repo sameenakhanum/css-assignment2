@@ -61,13 +61,12 @@ body{
     
 .container1 img{
     height: 270px;
-    width: 101%;
-    padding: 40px 40px 0 40px;
+    width: 100%;
 }
 .container2{
     height: 250px;
-    width: 79%;
-    margin: -4px 40px 0 40px;
+    width: 100%;
+    margin-top: -4px;
 }
 #twitter{
     font-size: 1.5rem;
